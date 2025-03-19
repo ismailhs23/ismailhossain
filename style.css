@@ -1,0 +1,19 @@
+h1{
+    color: #fff;
+    background-color: #2575fc;
+    text-align: center;
+}
+p{
+    background-color: yellowgreen;
+    margin: 350px 400px #f4f4f9;
+    padding: 30px;
+    padding: 30px;
+    border: solid 2px #ccc;
+}
+form{
+    background-color: yellow;
+    border: solid 2px black;
+    display: block;
+    width: 500px;
+    margin: auto;
+}
